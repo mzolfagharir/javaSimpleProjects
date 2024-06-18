@@ -26,7 +26,7 @@ public class Main {
     }
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-       // Scanner inputString = new Scanner(System.in);
+        Scanner inputString = new Scanner(System.in);
         System.out.println("Please Enter Your First Number:");
         double first = input.nextDouble();
         System.out.println("Please Enter Your Operation");
